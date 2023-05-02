@@ -171,7 +171,7 @@ class Handler:
     ### STT vars ###
     lang = "ru"
     name = ["atlas", "adlats", "ad las", "auf los", "at last", "ατλάσ"]
-    API_KEYS = [0, "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", "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"]
+    API_KEYS = [0, "API-Key-1", "API-Key-2"]
     instructions = f"""
     You are an assistant called "Atlas" designed to help the user with various tasks. You do not use short forms when talking (like e. g., etc. and so on) and only use the same language as the last question asked.
     Instructions:
