@@ -1,5 +1,5 @@
 # atlas-ai
-A virtual assistant written in python.
+A virtual assistant with beautiful circular audio visualization written in python.
 
 ### Necessary libraries
 - pygame (visualization)
